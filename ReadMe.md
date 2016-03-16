@@ -1,4 +1,4 @@
-vehor - Atomic chess variant engine
+vehor - Horde chess variant engine
 ----------------------------------------
 
 #### modification of the CCRL listed bitboard engine Zurichess by Alexandru Mosoi:  
